@@ -1,0 +1,61 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run MRDesk Application",
+            "request": "launch",
+            "mainClass": "com.example.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.example.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Welcome",
+            "request": "launch",
+            "mainClass": "com.example.view.Welcome",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoginPage",
+            "request": "launch",
+            "mainClass": "com.example.view.LoginPage",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch SignUp",
+            "request": "launch",
+            "mainClass": "com.example.view.SignUp",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch DashBoard (MR)",
+            "request": "launch",
+            "mainClass": "com.example.view.MR.MrDashboard",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch AsmDashBoard",
+            "request": "launch",
+            "mainClass": "com.example.view.ASM.AsmDashBoard",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch RsmDashBoard",
+            "request": "launch",
+            "mainClass": "com.example.view.RSM.RsmDashBoard",
+            "projectName": "demo"
+        }
+    ]
+}
